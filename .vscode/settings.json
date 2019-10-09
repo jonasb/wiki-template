@@ -3,5 +3,6 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 900000
+    "files.autoSaveDelay": 900000,
+    "files.trimTrailingWhitespace": true
 }
